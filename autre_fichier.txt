@@ -1,3 +1,5 @@
 Ceci est un fichier texte pour la demo
 
+Ajout de fonctions en test .....
+
 CS
