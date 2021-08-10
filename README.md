@@ -2,6 +2,6 @@
 
 Pour une demo de git
 
->> NewFunction
+>> NewFunction (New)
 
 CS
